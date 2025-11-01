@@ -1,0 +1,23 @@
+# build artifacts
+/build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+
+# tooling
+compile_commands.json
+
+# editors
+.vscode/
+.idea/
+.DS_Store
+
+# benches + tmp
+/bench/*.csv
+/tmp/
