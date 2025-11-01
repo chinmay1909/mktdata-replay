@@ -1,0 +1,2 @@
+Produced: 5000000, Consumed: 5000000
+Elapsed: 0.358386 s  (13.9514 M events/s)
